@@ -1,0 +1,3 @@
+# Search indexing is disabled by each page's meta robots declaration.
+User-agent: *
+Allow: /
